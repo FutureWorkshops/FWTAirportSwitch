@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FWWifiInterfaceName</key>
+	<string>en0</string>
+	<key>FWEthInterfaceNames</key>
+	<array>
+		<string>en3</string>
+	</array>
+	<key>FWOnOffScriptPath</key>
+	<string></string>
+	<key>FWUseGrowl</key>
+	<string>NO</string>
+</dict>
+</plist>
